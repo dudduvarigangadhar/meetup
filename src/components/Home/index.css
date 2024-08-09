@@ -1,0 +1,39 @@
+.meetup-img {
+  height: 300px;
+  margin-top: 3%;
+}
+
+.text-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.heading {
+  font-family: 'Roboto';
+  color: #334155;
+}
+
+.para {
+  font-family: 'Roboto';
+  margin: 0;
+  color: #64748b;
+}
+
+.register-btn {
+  font-family: 'Roboto';
+  color: #ffffff;
+  border: none;
+  border-radius: 6px;
+  background-color: #3b82f6;
+  margin-top: 20px;
+  height: 30px;
+  width: 70px;
+}
+
+.website-logo-img {
+  padding-left: 30px;
+  padding-top: 30px;
+}
